@@ -1,7 +1,11 @@
-![code](https://github.com/AkilaSuranga/AkilaSuranga/blob/main/istockphoto-1280448512-612x612.jpg)
+![Frame 2](https://github.com/AkilaSuranga/AkilaSuranga/assets/128453474/7dfd051a-52f2-4ddf-a37c-486081aa4a5c)
+
+<img align="left" width="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
 <h1 align="center">Hi 👋, I'm Akila Suranga</h1>
 <h3 align="center">I'm a Software Engineering Student</h3>
+
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akilasuranga&label=Profile%20views&color=0e75b6&style=flat" alt="akilasuranga" /> </p>
 
