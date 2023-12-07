@@ -1,3 +1,4 @@
+![code](https://github.com/AkilaSuranga/AkilaSuranga/blob/main/istockphoto-1280448512-612x612.jpg)
 <h1 align="center">Hi 👋, I'm Akila Suranga</h1>
 <h3 align="center">I'm a Software Engineering Student</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
