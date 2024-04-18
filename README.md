@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akilasuranga&label=Profile%20views&color=0e75b6&style=flat" alt="akilasuranga" /> </p>
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React js**
+- 💬 Ask me about React js
 
 - 📫 How to reach me **akilatms123@gmail.com**
 
