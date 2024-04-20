@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
 ![Frame 2](https://github.com/AkilaSuranga/AkilaSuranga/assets/128453474/7dfd051a-52f2-4ddf-a37c-486081aa4a5c)
 <div>
   <img align="left" width="200" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif">
