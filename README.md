@@ -13,7 +13,7 @@
 <img src="https://github.com/AkilaSuranga/AkilaSuranga/blob/main/Frame%201%20(1).png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akilasuranga&label=Profile%20views&color=0e75b6&style=flat" alt="akilasuranga" /> </p>
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** ,Node Js
 
 - 💬 Ask me about React js
 
